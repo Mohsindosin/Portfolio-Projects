@@ -1,6 +1,6 @@
 /*
 
-Cleaning Data in SQL Queries
+Cleaning Data in SQL Queries By Mohsin Siddiqui
 
 */
 
